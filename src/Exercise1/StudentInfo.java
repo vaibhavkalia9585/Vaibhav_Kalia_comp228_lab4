@@ -3,7 +3,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
-
+//coded by Vaibhav Kalia
 public class StudentInfo extends JFrame {
     // Declaring the variables
     private JPanel masterPanel, panel1, panel2, panel3, panel4, panel5, panel6;
